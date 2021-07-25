@@ -1,5 +1,5 @@
 # TSXor-Go
-## TSXor: A Novel Time Series Compression Algorithm
+## TSXor: A Simple Time Series Compression Algorithm
 
 This is porting of [TSXor](https://github.com/andybbruno/TSXor) (originally made in C++). 
 
